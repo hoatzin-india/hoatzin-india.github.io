@@ -1,0 +1,45 @@
+@font-face {  font-family: "Merienda One";  font-style: normal; font-weight:400 ; src: url('../fonts/merienda-one/MeriendaOne-Regular.ttf'); }
+
+@font-face {  font-family: "Old Standard TT";  font-style: normal; font-weight:400 ; src: url('../fonts/old-standard-tt/OldStandardTT-Regular.ttf'); }
+@font-face {  font-family: "Old Standard TT";  font-style: italic; font-weight:400 ; src: url('../fonts/old-standard-tt/OldStandardTT-Italic.ttf'); }
+@font-face {  font-family: "Old Standard TT";  font-style: normal; font-weight:700 ; src: url('../fonts/old-standard-tt/OldStandardTT-Bold.ttf'); }
+
+body,
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: "Old Standard TT", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+.title,.subtitle {
+  font-family: "Merienda One", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !important;
+}
+
+.hz-show-borders {
+	border: 1px solid red !important;
+}
+
+.hz-logo {
+	width: 190px !important;
+}
+
+.hz-background-curve {
+	background-image: url('../images/gray_curve_left_with_bird_blackbottom.png')!important;
+	background-repeat: no-repeat!important;
+}
+
+.hz-desktop-title {
+	font-size: 7.00rem !important;
+	border-top-left-radius: 80px !important;
+	border-bottom-left-radius: 80px !important;
+}
+
+.hz-border-round {
+	border-radius: 190px !important;
+}
+
+.hz-bottom-danger {
+	border: 1px solid red !important;	
+}
